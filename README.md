@@ -1,5 +1,8 @@
 # Hi 👋, I'm Rohan Verma
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohanv29&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;AI+%26+ML+Student;React+%7C+Java+%7C+DSA;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
@@ -21,11 +24,6 @@
   <img src="https://streak-stats.demolab.com?user=Rohanv29&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohanv29&theme=tokyonight&margin-w=15&margin-h=15"/>
-</p>
 
 ## 🚀 Currently Learning
 
@@ -38,36 +36,33 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Java
-- JavaScript
-- HTML5
-- CSS3
-- Python
-- C++
-
-### Frontend
-- React
-- Tailwind CSS
-
-### Backend
-- Node.js (Learning)
-
-### Database
-- Firebase
-- MongoDB (Learning)
-
-### Tools
-- Git
-- GitHub
-- VS Code
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,vscode&perline=5" />
+</p>
 ---
+## 📈 Contribution Graph
 
-## 📌 Featured Projects
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanv29&theme=tokyo-night&hide_border=true" />
+</p>
+
+
+## 🚀 Featured Project
 
 ### 🚦 Smart Queue Management System
-A web-based queue management system built with modern web technologies.
+
+A web-based queue management system built using React and Firebase.
+
+✨ Features
+- Real-time queue updates
+- Admin Dashboard
+- User Authentication
+- Responsive UI
+- Firebase Integration
+
+🔗 GitHub Repository: (Paste your repo link)
+
+🌐 Live Demo: (Paste your Render/Vercel link)
 
 🔗 GitHub: *(Add your repository link here)*
 
