@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi 👋, I'm Rohan Verma
 
-<!--
-**Rohanv29/Rohanv29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student at PSIT Kanpur
 
-Here are some ideas to get you started:
+💡 Passionate about Web Development, Data Structures & Algorithms, and AI/ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- ☕ Java + DSA
+- 🌐 Node.js (Next)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- HTML5
+- CSS3
+- Python
+- C++
+
+### Frontend
+- React
+- Tailwind CSS
+
+### Backend
+- Node.js (Learning)
+
+### Database
+- Firebase
+- MongoDB (Learning)
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🚦 Smart Queue Management System
+A web-based queue management system built with modern web technologies.
+
+🔗 GitHub: *(Add your repository link here)*
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Master React
+- ✅ Learn MERN Stack
+- ✅ Solve 300+ DSA problems
+- ✅ Build 10+ Projects
+- ✅ Get a Software Development Internship
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Rohanv29
+- LinkedIn: *(Add your LinkedIn profile link)*
+
+---
+
+⭐ Thanks for visiting my profile!
