@@ -40,17 +40,15 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,vscode&perline=5" />
 </p>
 ---
+
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rohanv29/Rohanv29/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanv29&theme=tokyo-night&hide_border=true" />
-</p>
 
 
 ## 🚀 Featured Project
