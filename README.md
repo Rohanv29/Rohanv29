@@ -1,4 +1,7 @@
 # Hi 👋, I'm Rohan Verma
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;AI+%26+ML+Student;React+%7C+Java+%7C+DSA;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+</p>
 
 🎓 B.Tech CSE (AI & ML) Student at PSIT Kanpur
 
