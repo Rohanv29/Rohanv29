@@ -15,7 +15,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohanv29&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rohanv29&show_icons=true&theme=tokyonight" height="170"/>
 </p>
 
 ## 🔥 GitHub Streak
@@ -85,7 +84,8 @@ A web-based queue management system built using React and Firebase.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Rohanv29
-- LinkedIn: *(Add your LinkedIn profile link)*
+- LinkedIn: https://www.linkedin.com/in/rohan-verma-6447493a4/
+- Email: rohanverma9580@gmail.com
 
 ---
 
